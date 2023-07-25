@@ -1,0 +1,26 @@
+{
+  "name": "thebasics_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KotaAneeshReddy/Node_Learning.git"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "Aneesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KotaAneeshReddy/Node_Learning/issues"
+  },
+  "homepage": "https://github.com/KotaAneeshReddy/Node_Learning#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
